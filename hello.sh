@@ -1,2 +1,2 @@
 echo Hello Git.
-echo Foo
+echo Win
